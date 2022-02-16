@@ -1,6 +1,6 @@
 {
-    "name": "flutterwebproject",
-    "short_name": "flutterwebproject",
+    "name": "flutterwebsite",
+    "short_name": "flutterwebsite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
